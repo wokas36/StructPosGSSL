@@ -16,12 +16,14 @@
 ### Citation
 Please cite our paper if you use this code in your research work.
 
+```
 @inproceedings{wijesinghe2025www,
   title={Graph Self-Supervised Learning with Learnable Structural and Positional Encodings},
   author={Wijesinghe, Asiri, Zhu, Hao, and Koniusz, Piotr},
   booktitle={The Web Conference (WWW)},
   year={2025}
 }
+```
 
 ### License
 MIT License
