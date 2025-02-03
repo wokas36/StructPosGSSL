@@ -14,7 +14,8 @@
 * cython (>= 3.0.8)
 
 ### Citation
-Please cite our paper if you use this code in your research work.
+
+* Please cite our paper if you use this code in your research work.
 
 ```
 @inproceedings{wijesinghe2025www,
@@ -26,7 +27,9 @@ Please cite our paper if you use this code in your research work.
 ```
 
 ### License
+
 MIT License
 
 ### Contact for StructPosGSSL issues
-Please contact me: u6537967@alumni.anu.edu.au if you have any questions or submit a Github issue if you find any bugs.
+
+* Please contact me: u6537967@alumni.anu.edu.au if you have any questions or submit a Github issue if you find any bugs.
