@@ -32,4 +32,4 @@ MIT License
 
 ### Contact for StructPosGSSL issues
 
-* Please contact me: u6537967@alumni.anu.edu.au if you have any questions or submit a Github issue if you find any bugs.
+* Please contact me: asiriwijesinghe.wijesinghe@data61.csiro.au if you have any questions or submit a Github issue if you find any bugs.
